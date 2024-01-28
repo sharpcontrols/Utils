@@ -4,6 +4,30 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <RootNamespace>SharpControls.Utils</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>SharpControls.Utils</PackageId>
+    <Title>SharpControls.Utils</Title>
+    <Authors>daRedLoCo</Authors>
+    <Company>SharpControls</Company>
+    <Copyright>© Helvetitec Technologies Ltda 2024</Copyright>
+    <PackageProjectUrl>https://github.com/sharpcontrols/Utils</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Description>Utilities for SharpControls, some SharpControls libraries use this as dependency but it can also used alone.</Description>
+    <Product>SharpControls.Utils</Product>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
