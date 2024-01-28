@@ -1,4 +1,4 @@
-﻿namespace Utils
+﻿namespace SharpControls.Utils
 {
     public static class Arrays
     {

@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace Utils
+namespace SharpControls.Utils
 {
-    public static class Utils
+    public static class General
     {
         /// <summary>
         /// Counts the amount of numbers inside a number
