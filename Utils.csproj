@@ -17,10 +17,11 @@
     <Product>SharpControls.Utils</Product>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-    <PackageReleaseNotes>* Made newValue from StringExtensions.ReplaceFirst function default to empty string</PackageReleaseNotes>
+    <PackageReleaseNotes>* Added ArrayExtensions
+* Added ReadMe</PackageReleaseNotes>
     <AssemblyVersion>1.0.3.0</AssemblyVersion>
     <FileVersion>1.0.3.0</FileVersion>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
   </PropertyGroup>
 
   <ItemGroup>
