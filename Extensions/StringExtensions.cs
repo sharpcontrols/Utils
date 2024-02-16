@@ -9,7 +9,7 @@ namespace SharpControls.Utils.Extensions
 {
     public static partial class StringExtensions
     {
-        public static string ReplaceFirst(this string input, string oldValue, string newValue)
+        public static string ReplaceFirst(this string input, string oldValue, string newValue = "")
         {
             int position = input.IndexOf(oldValue);
             if (position < 0)
