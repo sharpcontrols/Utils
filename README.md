@@ -42,3 +42,9 @@ Counts the amount of numbers inside a number
 Returns the number to a representation in words. Only english
 ### LeadingZeros
 Adds leading zeros to a integer value like ID etc.
+
+## ExtraMath
+### Haversine
+Calculates the distance between two coordinates in kilometers
+### ToRadians
+Converts the angle into radiants

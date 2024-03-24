@@ -17,11 +17,10 @@
     <Product>SharpControls.Utils</Product>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-    <PackageReleaseNotes>* Added ArrayExtensions
-* Added ReadMe</PackageReleaseNotes>
-    <AssemblyVersion>1.0.4.0</AssemblyVersion>
-    <FileVersion>1.0.3.0</FileVersion>
-    <Version>1.0.4</Version>
+    <PackageReleaseNotes>* Added ExtraMath class with Haversine function</PackageReleaseNotes>
+    <AssemblyVersion>1.0.6.0</AssemblyVersion>
+    <FileVersion>1.0.6.0</FileVersion>
+    <Version>1.0.6</Version>
   </PropertyGroup>
 
   <ItemGroup>
